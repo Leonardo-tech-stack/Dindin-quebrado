@@ -160,7 +160,7 @@ input:hover, textarea:hover {
 
 /* RESPONSIVIDADE DA SESSÃO CONTATO */
 
-@media (max-width: 1000px) {
+/* @media (max-width: 1000px) {
     .formulario {
         width: calc(100% - 20px);
         padding: 10px;
@@ -180,7 +180,7 @@ input:hover, textarea:hover {
         margin-bottom: 20px;
     }
 
-}
+} */
 
 footer {
     background-color: #419488;
